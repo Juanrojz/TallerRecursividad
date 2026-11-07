@@ -88,9 +88,6 @@ public class Main {
         System.out.println("La cadena invertida es: " + invertir(cadena));
     }
 
-    // ---------------------------------------------------------
-    // MAIN
-    // ---------------------------------------------------------
 
     public static void main(String[] args) {
         System.out.println("EJERCICIOS DE RECURSIVIDAD");
